@@ -1,7 +1,7 @@
 ### 👋 Hey baby, I'm p19y aka mate, aka mathieu (pick one)
 
 
-I am a **Volunteer** at [LaCapsule.org](https://lacapsule.org) and a **Writer**. You should probably read some short stories I published on [my personal website](https://spinning-fantasies.org) (mostly in French), cause I come from [Morlaix](https://www.openstreetmap.org/relation/297387), in North Western Britanny.
+I am a **Volunteer** at [LaCapsule.org](https://lacapsule.org) and a **Writer**. You should read some stories I published on [my personal website](https://spinning-fantasies.org) (mostly in French), cause I come from [Morlaix](https://www.openstreetmap.org/relation/297387), in North Western Britanny.
 
 *Where I am working on:*
 
