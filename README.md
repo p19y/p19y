@@ -6,7 +6,7 @@ I am a **Volunteer** at [LaCapsule.org](https://lacapsule.org) and a **Writer**.
 *Where I am working on:*
 
 - I am **currently helping** [@LaCapsule](https://github.com/lacapsule) to fix some issues on [their website](https://lacapsule/V4) and grow their [computer refurbishing business](https://lacapsule.org/pages/metier.html#reconditionnement).
-- I am a **proud member** of [La Maisons Perchée](https://www.maisonperchee.org/), an online mental health peer-to-peer support group.
+- I am a **proud member** of [La Maison Perchée](https://www.maisonperchee.org/), an online mental health peer-to-peer support group.
 - I am also a **part of** [L'Onda Nostra](https://www.ondanostra.com) and [Immersion Nomade](https://imno.in), which are both art collective.
 
 *Where I used to work*
