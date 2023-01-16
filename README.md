@@ -1,7 +1,7 @@
-### 👋 Hey baby, I'm p19y aka mate, aka mathieu (pick one)
+### 👋 Hey baby, I'm p19y aka peacelovesubbassunity, aka mate, aka mathieu (pick one)
 
 
-I am a **Volunteer** at [LaCapsule.org](https://lacapsule.org) and a **Writer**. You should read some stories I published on [my personal website](https://spinning-fantasies.org) (mostly in French), cause I come from [Morlaix](https://www.openstreetmap.org/relation/297387), in North Western Britanny.
+I am a **Volunteer** at [LaCapsule.org](https://lacapsule.org) and a **Writer**. You should read some stories I published on [my personal website](https://spinning-fantasies.org) (mostly in French, because I come from [Morlaix](https://www.openstreetmap.org/relation/297387), in Britanny).
 
 *Where I am working on:*
 
@@ -14,7 +14,6 @@ I am a **Volunteer** at [LaCapsule.org](https://lacapsule.org) and a **Writer**.
 - I was a **Customer Support Agent** at [Side.co](https://www.side.co) from Winter 2017 to Summer 2018.
 - I wrote an **auto fiction book** pompously entitled [NONLIVRE](https://github.com/p19y/p19y/files/10425447/NONLIVRE.2017.pdf) in 2017.
 - I helped [Baptiste](https://github.com/baptistejamin) and [Valerian](https://github.com/valeriansaliou) to kickstart [Crisp](https://crisp.chat) in 2015.
-
 
 <!--
 **p19y/p19y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
